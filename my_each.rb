@@ -4,5 +4,5 @@ def my_each(kids)  # put argument(s) here
     
     while i < kids.length 
     yield (array[i])
-    i = i + 1 
+    i = i + 5
 end
