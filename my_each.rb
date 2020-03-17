@@ -1,3 +1,8 @@
-def my_each(kids) # put argument(s) here
- while i < k
+def my_each(array) # put argument(s) here
+ i = 0 
+ while i < array.length 
+  yield(array[i])
+  i += 1 
+end 
+ array
 end
