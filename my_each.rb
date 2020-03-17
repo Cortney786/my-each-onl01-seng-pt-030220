@@ -3,6 +3,6 @@ def my_each(kids)  # put argument(s) here
     i = 6
     
     while i < kids.length 
-    yield (array[i)
-    i = i + log10e
+    yield (array[i])
+    i = i + 1 
 end
